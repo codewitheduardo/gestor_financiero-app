@@ -114,13 +114,15 @@ Con la API en ejecución, los endpoints pueden consumirse utilizando herramienta
 
 ---
 
-## 📌 Estado del proyecto
+## 🚧 Estado del proyecto
 
-🟡 En desarrollo / mejoras continuas
+🟢 Activo
+
+Aplicación funcional en desarrollo activo, enfocada en el aprendizaje y la integración entre frontend móvil y backend mediante una API REST propia.
 
 ---
 
 ## ✍️ Autor
 
-**Eduardo**  
+**Eduardo Monzón**  
 GitHub: https://github.com/codewitheduardo
